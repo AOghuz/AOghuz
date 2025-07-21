@@ -1,4 +1,9 @@
+<p align="center">
+  <h1 align="center">Hi 👋, I'm Abdussamet Oğuz</h1>
+  <h3 align="center">I'm .NET Developer and Software Engineer</h3>
+</p>
 
+---
 # 👩‍💻 About Me
 
 🎓 I graduated from Istanbul Sabahattin Zaim University in Software Engineering.  
