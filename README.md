@@ -1,8 +1,4 @@
-                             ## Hi 👋, I'm Abdussamet Oğuz
 
-                          I'm .NET Developer and Software Engineer
-
----
 # 👩‍💻 About Me
 
 🎓 I graduated from Istanbul Sabahattin Zaim University in Software Engineering.  
