@@ -29,5 +29,5 @@
 ## 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/-sametsafacan@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sametsafacan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-abdussametoguz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdussametoguz)
+[![LinkedIn](https://img.shields.io/badge/-linkedin:abdussametoguz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdussametoguz)
 [![Instagram](https://img.shields.io/badge/-@abdussamet_oguz-F56040?style=flat&logo=instagram&logoColor=white)](https://instagram.com/abdussamet_oguz)
