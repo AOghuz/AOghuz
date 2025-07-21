@@ -1,6 +1,6 @@
-## Hi 👋, I'm Abdussamet Oğuz
+                             ## Hi 👋, I'm Abdussamet Oğuz
 
-I'm .NET Developer and Software Engineer
+                          I'm .NET Developer and Software Engineer
 
 ---
 # 👩‍💻 About Me
