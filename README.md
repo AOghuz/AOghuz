@@ -5,7 +5,7 @@
 📚 I continuously improve myself by working on projects and participating in various training programs.  
 🚀 I'm passionate about backend development, API design, and software architecture.  
 🤝 I value teamwork, responsibility, and continuous learning in the field of software development.  
-📫 You can contact me at sametsafacan@gmail.com (mailto:sametsafacan@gmail.com)
+📫 You can contact me at sametsafacan@gmail.com
 
 ---
 
